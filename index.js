@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import { parse } from 'node-html-parser';
 
-const webhook = "
+const webhook = ""
 const url = ""
 let lastVisits = 0;
 
